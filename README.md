@@ -1,4 +1,7 @@
 # SRL-Workforce-Analytics-Dashboard
+
+You can view the Tableau dashboard here: [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/alexis.baeza1954/viz/SRL-WORKFORCE-ANALYTICS-DASHBOARD/Dashboard1)
+
 **Period 2006-2018**
 This repository contains the SRL workforce analytics project: diversity, satisfaction, and turnover metrics.
 
