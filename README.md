@@ -15,6 +15,7 @@ An executive Tableau dashboard showcasing:
   2. Employees by Department  
   3. Average Satisfaction by Manager  
   4. Yearly Employee Departures
+  5. Top 10 reasons employees leave the company 
 
 ## Visualization Details
 ### Employee Percentage by Gender
@@ -48,7 +49,7 @@ An executive Tableau dashboard showcasing:
 - **Interactivity:**
     - Filters (Gender and department) can be applied
       
-### Top 10 reasones why employees leave the company
+### Top 10 reasons employees leave the company
 
 ![image](https://github.com/user-attachments/assets/07e5f338-000c-4420-9383-3a2f6d82e113)
 
